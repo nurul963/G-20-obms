@@ -101,3 +101,5 @@ export const books = [
   }
 ];
 export const bookImg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbXCpiYKfm11YUjU715AE4xto0XO6fzBiL8Q&s";
+
+export const API_URL='https://dummyjson.com';
